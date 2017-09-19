@@ -11,6 +11,6 @@ Luego el diseño se desarrolla en componentes funcionales como AlbumDeatil, Card
 
 
 
-![alt text]https://github.com/miuel/albums/blob/master/patronesUI/wireframeAlbumPorject.png
+![alt text](https://github.com/miuel/albums/blob/master/patronesUI/wireframeAlbumPorject.png)
 
-![alt text]https://github.com/miuel/albums/blob/master/patronesUI/dise%C3%B1o.pdf
+![alt text](https://github.com/miuel/albums/blob/master/patronesUI/dise%C3%B1o.pdf)
