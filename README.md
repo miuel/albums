@@ -9,8 +9,10 @@ con el metodo map() recorro todos los registros del array y les asigno un diseñ
 Luego el diseño se desarrolla en componentes funcionales como AlbumDeatil, CardSection ó Card.
 
 
-
+Wireframe:
 
 ![alt text](https://github.com/miuel/albums/blob/master/patronesUI/wireframeAlbumPorject.png)
+
+Diseño Final
 
 ![alt text](https://github.com/miuel/albums/blob/master/patronesUI/printScreenApp.png)
