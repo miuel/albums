@@ -16,3 +16,15 @@ Wireframe:
 Diseño Final
 
 ![alt text](https://github.com/miuel/albums/blob/master/patronesUI/printScreenApp.png)
+
+## Para correr la app
+
+descargar el proyecto ó hacer git clone https://github.com/miuel/albums.git en la terminal
+
+npm install
+
+npm install -g react-native-cli
+
+react-native init
+
+react-native run-ios
